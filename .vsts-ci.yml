@@ -17,3 +17,7 @@ steps:
     testResultsFiles: '**/*.trx'
 
 - task: PublishBuildArtifacts@1
+
+
+
+# This repository is built using VSTS.
